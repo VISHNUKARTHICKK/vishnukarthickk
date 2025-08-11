@@ -1,13 +1,13 @@
 # Hi 👋, I'm Vishnu Karthick K
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=vishnukarthickk&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m learning **Full Stack Web Development**
-- 📫 Let’s connect: : **vkarthick459@gmail.com*
+- 📫 Let’s connect: : **vkarthick459@gmail.com**
 
 ## Connect with me:
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishnu-karthick-k-783463246/))
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vishnu-karthick-k-783463246/)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/yourprofile)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram.png)](https://www.instagram.com/_dynamic_vk/)
 
