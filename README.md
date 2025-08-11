@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Vishnu Karthick K
 
-<!--
-**VISHNUKARTHICKK/vishnukarthickk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Spring Boot**
+- 🌱 I’m learning **Full Stack Web Development**
+- 📫 How to reach me: **youremail@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishnu-karthick-k-783463246/))
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/yourprofile)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram.png)](https://www.instagram.com/_dynamic_vk/)
+
+## Languages and Tools:
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
