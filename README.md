@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m learning **Full Stack Web Development**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 Let’s connect: : **vkarthick459@gmail.com*
 
 ## Connect with me:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishnu-karthick-k-783463246/))
