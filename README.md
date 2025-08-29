@@ -5,21 +5,6 @@
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m learning **Full Stack Web Development**
 - 📫 Let’s connect: : **vkarthick459@gmail.com**
-
-🛠️ Skills & Technologies
-
-Backend Development
-Java (Core & Advanced)
-Spring Framework (Spring Boot, Spring MVC, Spring Data JPA)
-Hibernate & JPA
-
-Databases
-MySQL
-
-Tools & Other Technologies
-Git & GitHub
-Postman (API Testing)
-HTML, CSS
   
 ## Connect with me:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vishnu-karthick-k-783463246/)
