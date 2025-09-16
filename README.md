@@ -9,7 +9,8 @@
 ## Connect with me:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vishnu-karthick-k-783463246/)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/yourprofile)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram.png)](https://www.instagram.com/_dynamic_vk/)
+[![Instagram]<img width="4322" height="4320" alt="image" src="https://github.com/user-attachments/assets/cedc3ef5-891c-4397-b136-3e79070749ef" />
+)](https://www.instagram.com/_dynamic_vk/)
 
 ## Languages and Tools:
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
