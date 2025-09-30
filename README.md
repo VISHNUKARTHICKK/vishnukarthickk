@@ -7,11 +7,15 @@
 - 📫 Let’s connect: : **vkarthick459@gmail.com**
   
 ## Connect with me:
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vishnu-karthick-k-783463246/)
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/yourprofile)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram.png)](https://www.instagram.com/_dynamic_vk/)
 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishnu-karthick-k-783463246/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_dynamic_vk/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 ## Languages and Tools:
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
