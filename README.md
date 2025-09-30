@@ -10,6 +10,8 @@
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vishnu-karthick-k-783463246/)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/yourprofile)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram.png)](https://www.instagram.com/_dynamic_vk/)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/_dynamic_vk/)
+
 
 ## Languages and Tools:
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
