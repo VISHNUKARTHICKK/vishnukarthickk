@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m learning **Full Stack Web Development**
-- 📫 Let’s connect: : **vkarthick459@gmail.com**
+- 📫 Let’s connect: : **vkarthick459@gmail.com** 
   
 ## Connect with me:
 
