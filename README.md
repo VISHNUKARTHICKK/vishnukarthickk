@@ -24,4 +24,4 @@
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
+![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)   
